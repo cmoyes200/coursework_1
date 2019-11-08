@@ -11,6 +11,7 @@ class Dec2Hex
 		System.out.println("This is a test");
         for(String str : args) {
             System.out.println(str);
+		}
         if (args.length > 0) 
         {
             try 
