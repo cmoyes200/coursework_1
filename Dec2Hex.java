@@ -7,6 +7,8 @@ class Dec2Hex
 
     public static void main(String args[])
     {
+        for(String str : args) {
+            System.out.println(str);
         if (args.length > 0) 
         {
             try 
