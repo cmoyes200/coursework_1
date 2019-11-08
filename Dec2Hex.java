@@ -6,6 +6,8 @@ class Dec2Hex
     public static int Arg1;
 
     public static void main(String args[])
+	
+	System.out.println("This is a test");
     {
         for(String str : args) {
             System.out.println(str);
